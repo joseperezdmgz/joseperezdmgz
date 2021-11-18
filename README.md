@@ -6,9 +6,9 @@ Hi, I'm Jose Pérez</h2>
 
 
   
-  <a href="mailto:joseperezdmgz@gmail.com" target="blank"><img src="https://img.icons8.com/doodle/48/000000/gmail.png" width="30px"/></a> 
-  <a href="https://in.linkedin.com/in/joseperezdmgz" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin.png" width="30px"/></a>
-  <a href="https://twitter.com/joseperezdmgz" target="blank"><img src="https://img.icons8.com/doodle/48/000000/twitter.png" width="30px"/></a>
-  <a href="https://joseperezdmgz.netlify.app" target="blank"><img src="https://img.icons8.com/doodle/48/000000/chrome.png" width="30px"/></a>
+  <a href="mailto:joseperezdmgz@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/gmail.png" width="30px"/></a> 
+  <a href="https://in.linkedin.com/in/joseperezdmgz" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin.png" width="30px"/></a>
+  <a href="https://twitter.com/joseperezdmgz" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/twitter.png" width="30px"/></a>
+  <a href="https://joseperezdmgz.netlify.app" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/chrome.png" width="30px"/></a>
 
 </div>
